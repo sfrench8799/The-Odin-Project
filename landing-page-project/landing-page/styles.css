@@ -131,8 +131,9 @@ h2 {
 }
 
 .testimonial-container {
+    box-sizing: border-box;
     max-width: 1200px;
-    padding: 100px;
+    padding: 100px 75px;
 }
 
 .testimonial-text {
@@ -147,4 +148,14 @@ h2 {
     text-align: end;
 }
 
+/* CTA */
 
+.CTA-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.CTA-text-container {
+    display: flex;
+
+}
