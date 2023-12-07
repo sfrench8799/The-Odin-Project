@@ -76,7 +76,7 @@ h1 {
 }
 
 .button {
-    display: inline-block;
+    width: fit-content;
     color: #E5E7EB;
     font-weight: 700;
     background-color: #3882F6;
